@@ -21,8 +21,17 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-kumari-a237b3276/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mail_to:shalinikumari8789@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shalini-kumari-a237b3276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:shalinikumari8789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 # 💻 Tech Stack:
 
