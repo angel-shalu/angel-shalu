@@ -11,10 +11,11 @@
 
 🎓 B.Tech student at SAGE University, Bhopal – Specializing in Computer Science and Engineering  
 🌱 Currently learning AI & Advanced Machine Learning concepts, and improving DSA problem-solving skills in Python  
-🛠 Focused on clean data architecture, efficient data pipelines, and end-to-end data-driven applications.  
-🌱 Embracing the ever-evolving world of technology and continuous learning. 
-🤝 Open to collaborating on innovative and exciting projects.
+🛠 Focused on clean data architecture, efficient data pipelines, and end-to-end data-driven applications  
+🧠 Quick learner, explorer of new technologies, and a team player who believes in continuous improvement  
+🤝 Open to collaborating on innovative and exciting projects.  
 📫 Reach me anytime at: shalinikumari8789@gmail.com
+
 
 
 
@@ -27,4 +28,3 @@
   <a href="https://www.linkedin.com/in/shalini-kumari-a237b3276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalini-kumari-a237b3276/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shalinikumari8789@gmail.com ) 
