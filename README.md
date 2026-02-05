@@ -8,10 +8,15 @@
 ---
 
 🎓 B.Tech student at *SAGE University, Bhopal* – Specializing in *Computer Science and Engineering*
+
 🌱 Currently learning **AI & Advanced Machine Learning concepts**, and improving **DSA problem-solving skills in Python**.
+
 🛠 Focused on **clean data architecture, efficient data pipelines, and end-to-end data-driven applications**.
+
 🧠 Quick learner, explorer of new tech, and a team player who believes in continuous improvement
+
 💻 I enjoy turning ideas into reality through code
+
 📫 Reach me anytime at: shalinikumari8789@gmail.com
 
 
