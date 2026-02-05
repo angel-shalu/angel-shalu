@@ -2,7 +2,7 @@
 <h3 align="center">🚀  Full Stack Data Science with AI | GenAi Enthusiast |💡 DSA Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivani-kumari&label=Profile%20views&color=gray&style=flat" alt="shivani-kumari" />
+  <img src="https://komarev.com/ghpvc/?username=angel-shalu&label=Profile%20views&color=gray&style=flat" alt="angel-shalu" />
 </p>
 
 ---
